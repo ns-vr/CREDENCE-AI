@@ -1,0 +1,6 @@
+{
+  "name": "CREDENCE · AI Financial Trust Intelligence",
+  "description": "Behavioural Trust & Financial Access Intelligence for AI Agents in banking and small business finance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
